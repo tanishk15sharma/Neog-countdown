@@ -1,0 +1,42 @@
+#countdowntxt {
+    text-align: center;
+    font-family: cursive;
+    padding-top: 0.1rem;
+    color: #1affff;
+    font-size: 310%;
+    text-shadow: 2px 2px 4px #003333, 0 0 20px #4dffff
+}
+
+#heading {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Poppins", sans-serif;
+    padding-top: 1rem;
+    margin-top: 5rem;
+    color: #1affff;
+    font-size: larger;
+    font-size: xx-large;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+body {
+    background-color: #101010;
+    background-image: url(./27230.jpg);
+    background-repeat: no-repeat;
+    background-size: 1370px 700px;
+    background-position: 1px -0.9px;
+}
+
+#img {
+    border-radius: 100%;
+    margin-left: 22rem;
+    margin-top: 1rem;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 2px 2px 0 rgb(0, 102, 82), 0 1px 14px 0 rgb(102, 255, 255)
+    ;
+}
+
+img:hover {
+    opacity: 0.8;
+}
